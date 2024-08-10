@@ -13,6 +13,7 @@ HOW TO USE
 Clone the Repository:
 git clone https://github.com/yourusername/java-banking-system.git
 
+Navigate:
 cd java-banking-system
 
 Compile the Program:
